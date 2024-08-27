@@ -6,6 +6,6 @@ Missing submission deadlines will result in significant point penalties, so it's
 Since information is spread across the Formula Student website, I recommend familiarising yourself with the interface to easily locate everything.
 
 Key Resources
-Rules: https://www.imeche.org/events/formula-student/team-information/rules\
-Key Dates: https://www.imeche.org/events/formula-student/team-information/key-dates\
+Rules: https://www.imeche.org/events/formula-student/team-information/rules \
+Key Dates: https://www.imeche.org/events/formula-student/team-information/key-dates \
 Forms & Documents: https://www.imeche.org/events/formula-student/team-information/forms-and-documents
